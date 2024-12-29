@@ -24,14 +24,14 @@ This project supports:
 - Tracking athlete participation across disciplines and events
 - Recording medal distributions by athletes, events, and countries
 - Reporting on top-performing athletes, countries, and disciplines
-- Views and JOINS
+- Views, JOINS and query optimizations
 
 ## Representation
-The below entity relationship diagram describes the relationships among the entities in the PostgreSQL database.
+Entities are captured in SQLite tables with the following schema.
 
-![ER Diagram](diagram.png)
+### Entities
 
-As detailed by the diagram:
+The database includes the following entities:
 
 #### Athletes
 The `athletes` table includes:
@@ -153,7 +153,7 @@ The `teams` table includes:
 
 ### Relationships
 
-![ER Diagram](diagram.png)
+![ER Diagram](diagram.svg)
 
 The relationships among the entities are defined as follows:
 
