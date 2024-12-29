@@ -13,9 +13,10 @@ This repository contains the code to create the Tokyo Olympics database in Postg
 - postgreSQL
 - codespaces
 - docker
+- mermaid.js
 
 ### Database schema
-![ER Diagram](diagram.png)
+![ER Diagram](diagram.svg)
 
 ### Sources
 - [CS50-SQL](https://cs50.harvard.edu/sql/2024/)
