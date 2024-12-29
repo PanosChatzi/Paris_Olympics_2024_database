@@ -1,7 +1,7 @@
-# Tokyo_Olympics_2024_database
+# Paris_Olympics_2024_database
 Welcome to the repository for the final project of CS50's Introduction to Databases with SQL course.
 
-This repository contains the code to create the Tokyo Olympics database in PostgreSQL, insert the data in tables, optimize searches using indexes, and queries to retrieve individual athlete and teams information, the distribution of participants and medallists, and the top performing countries.
+This repository contains the code to create the Paris Olympics database in PostgreSQL, insert the data in tables, optimize searches using indexes, and queries to retrieve individual athlete and teams information, the distribution of participants and medallists, and the top performing countries.
 
 ### Repository Structure
 - [DESIGN.md](DESIGN.md): Database design information
