@@ -1,8 +1,8 @@
 -- CREATE the database
-CREATE DATABASE tokyo_olympics_2024;
+CREATE DATABASE paris_olympics_2024;
 
--- USE the tokyo_olympics_2024 database
-\c tokyo_olympics_2024;
+-- USE the paris_olympics_2024 database
+\c paris_olympics_2024;
 
 -- CREATE tables
 -- Athletes
