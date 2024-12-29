@@ -1,4 +1,4 @@
--- Find the names of all Greek athletes that participated in the 2024 Tokyo Olympics
+-- Find the names of all Greek athletes that participated in the 2024 Paris Olympics
 SELECT "name", "disciplines", "events"
 FROM "athletes"
 WHERE "country" = 'Greece';
