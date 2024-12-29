@@ -2,11 +2,11 @@
 
 By Panagiotis Chatzinikolaou
 
-Video overview: [Tokyo Olympics 2024 Database](https://youtu.be/me3gPBSj7ig)
+Video overview: [Paris Olympics 2024 Database](https://youtu.be/me3gPBSj7ig)
 
 ## Scope
 
-This is the final project for CS50's course "Introduction to Databases with SQL". In this project, I created a relational database in PostgreSQL using the 2024 Tokyo Olympics dataset. The project includes all entities necessary to facilitate the process of tracking athlete participation, medal distribution, and country performance in the Olympics. Data were downloaded as CSV files from Kaggle and then copied in tables in a POSTGRES database named "tokyo_olympics_2024". The tables included in the database are:
+This is the final project for CS50's course "Introduction to Databases with SQL". In this project, I created a relational database in PostgreSQL using the 2024 Paris Olympics dataset. The project includes all entities necessary to facilitate the process of tracking athlete participation, medal distribution, and country performance in the Olympics. Data were downloaded as CSV files from Kaggle and then copied in tables in a POSTGRES database named "paris_olympics_2024". The tables included in the database are:
 
 - Athletes, including athlete personal information and associated disciplines
 - Medals, including the type, event, and athlete who won them
