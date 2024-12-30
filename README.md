@@ -6,7 +6,7 @@ This repository contains the code to create the Paris Olympics database in Postg
 ### Repository Structure
 - [DESIGN.md](DESIGN.md): Database design information
 - [schema.sql](schema.sql): code to create the database schema
-- [queries.sql](queries.md): sample queries to retrieve athlete and medal information
+- [queries.sql](queries.sql): sample queries to retrieve athlete and medal information
 - [login.sql](login.sql): information to login to PostgreSQL in Docker
 
 ### Technologies
